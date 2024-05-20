@@ -1,0 +1,14 @@
+D:\CURSO C# UDEMY\EntradaDeDados\uri1035\uri1035\obj\Debug\net8.0\uri1035.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C# UDEMY\EntradaDeDados\uri1035\uri1035\obj\Debug\net8.0\uri1035.AssemblyInfoInputs.cache
+D:\CURSO C# UDEMY\EntradaDeDados\uri1035\uri1035\obj\Debug\net8.0\uri1035.AssemblyInfo.cs
+D:\CURSO C# UDEMY\EntradaDeDados\uri1035\uri1035\obj\Debug\net8.0\uri1035.csproj.CoreCompileInputs.cache
+D:\CURSO C# UDEMY\EntradaDeDados\uri1035\uri1035\bin\Debug\net8.0\uri1035.exe
+D:\CURSO C# UDEMY\EntradaDeDados\uri1035\uri1035\bin\Debug\net8.0\uri1035.deps.json
+D:\CURSO C# UDEMY\EntradaDeDados\uri1035\uri1035\bin\Debug\net8.0\uri1035.runtimeconfig.json
+D:\CURSO C# UDEMY\EntradaDeDados\uri1035\uri1035\bin\Debug\net8.0\uri1035.dll
+D:\CURSO C# UDEMY\EntradaDeDados\uri1035\uri1035\bin\Debug\net8.0\uri1035.pdb
+D:\CURSO C# UDEMY\EntradaDeDados\uri1035\uri1035\obj\Debug\net8.0\uri1035.dll
+D:\CURSO C# UDEMY\EntradaDeDados\uri1035\uri1035\obj\Debug\net8.0\refint\uri1035.dll
+D:\CURSO C# UDEMY\EntradaDeDados\uri1035\uri1035\obj\Debug\net8.0\uri1035.pdb
+D:\CURSO C# UDEMY\EntradaDeDados\uri1035\uri1035\obj\Debug\net8.0\uri1035.genruntimeconfig.cache
+D:\CURSO C# UDEMY\EntradaDeDados\uri1035\uri1035\obj\Debug\net8.0\ref\uri1035.dll
